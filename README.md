@@ -1,7 +1,7 @@
 # ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance
 
-**ReaLM** is accepeted by DAC'25!
-\url{https://arxiv.org/abs/2503.24053}
+[ReaLM](https://arxiv.org/abs/2503.24053) is accepeted by DAC'25!
+
 This paper systmatically characterize **the inherent resilience of LLMs** and propose **Statistical ABFT** to minimize error recovery cost. Here is our code for LLM resilience characterization.
 
 ## Abstract
@@ -30,7 +30,18 @@ python error_model/smoothquant_Llama2_error_inject.py (any python file you want 
 ```
 
 ## Citation 
-Coming soon
+Feel free to cite us
+```
+@misc{xie2025realmreliableefficientlarge,
+      title={ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance}, 
+      author={Tong Xie and Jiawang Zhao and Zishen Wan and Zuodong Zhang and Yuan Wang and Runsheng Wang and Ru Huang and Meng Li},
+      year={2025},
+      eprint={2503.24053},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2503.24053}, 
+}
+```
 
 ## Acknowledgements
 This project is built upon [SmoothQuant](https://github.com/mit-han-lab/smoothquant) [ICML'23]. We thank the authors for their excellent work.
