@@ -8,8 +8,8 @@ The demand for efficient large language model (LLM) inference has propelled the 
 ![resilience_characterization](/figs/resilience_characterization.png)
 
 <div style="display: flex; gap: 10px;">
-  <img src="critical_region.png" alt="fig1" style="width: 50%;"/>
-  <img src="statistical_ABFT.png" alt="fig2" style="width: 50%;"/>
+  <img src="/figs/critical_region.png" alt="fig1" style="width: 48%;"/>
+  <img src="/figs/statistical_ABFT.png" alt="fig2" style="width: 48%;"/>
 </div>
 
 
