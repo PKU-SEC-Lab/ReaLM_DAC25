@@ -1,6 +1,6 @@
 # ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance
 
-ReaLM (Accepted by DAC'25) is a novel algorithm/circuit co-design framework that enables reliable and energy-efficient LLM inference by leveraging inherent model resilience and statistical ABFT techniques. This repository contains code for LLM resilience characterization. Our paper can be found [here](https://arxiv.org/abs/2503.24053)
+ReaLM (Accepted by DAC'25) is a novel algorithm/circuit co-design framework that enables reliable and energy-efficient LLM inference by leveraging inherent model resilience and statistical ABFT techniques. This repository contains code for LLM resilience characterization. Our paper can be found [here](https://arxiv.org/abs/2503.24053).
 
 ## Abstract
 
